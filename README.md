@@ -1,4 +1,4 @@
-# This is a modified version of [Chatterbox TTS](https://huggingface.co/ResembleAI/chatterbox).
+# This is a modified version of [Chatterbox TTS](https://huggingface.co/ResembleAI/chatterbox). It supports multiple GPU's on a system and splits the work into a queue.
 
 # 🚀 Chatterbox-TTS-Extended — Features & Explanations
 
